@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Event sense</string>
+    <string name="events">EventSense</string>
+    <string name="internet">Network</string>
+    <string name="battery_event">Battery</string>
+    <string name="screen_evant">Screen</string>
+    <string name="pilot_event">Pilot</string>
+    <string name="bluetooth_event">Bluetooth</string>
+    <string name="about_app">Info EventSense</string>
+    <string name="wi_fi">Wi-fi</string>
+    <string name="hotspot">Mobile data</string>
+    <string name="battery_charging_notifies_when_the_device_starts_or_stops_charging">1.Battery Connected/Disconnected: Triggers a notification when the device establishes or loses a charging connection..</string>
+    <string name="network_connections_monitors_changes_in_network_type_e_g_switching_from_wi_fi_to_mobile_data">2.Connectivity State Listener: Listens for events notifying of changes in the network connection type..</string>
+    <string name="airplane_mode_indicates_when_airplane_mode_is_enabled_or_disabled">3.Airplane Mode Status: Informs you about whether airplane mode, which disables connections, is activated or deactivated.</string>
+    <string name="wi_fi_status_tracks_when_wi_fi_is_connected_disconnected_or_toggled">5.Wireless Network Monitor: Provides real-time updates on your Wi-Fi connectivity (connected, disconnected, or toggled)..</string>
+    <string name="mobile_internet_status_alerts_when_mobile_data_is_turned_on_or_off">6.Data Connection: Informs you about your mobile data usage status (on/off)..</string>
+    <string name="screen_status_informs_about_the_screen_turning_on_or_off">7.Automatic Screen Lock: Monitors whether the screen is on and might also refer to the automatic lock functionality (optional)..</string>
+    <string name="_4_bluetooth_status_alerts_when_bluetooth_is_turned_on_off_or_connected_disconnected">4.Bluetooth Adapter State: Tracks the power state (on/off) and connection status (connected/disconnected) of the Bluetooth adapter..</string>
+</resources>
